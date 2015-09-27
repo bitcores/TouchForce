@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TouchForce</string>
+
+    <string name="hello_world">Touch the screen with something, or more than one something</string>
+    <string name="action_settings">Settings</string>
+</resources>
