@@ -47,7 +47,7 @@ public class MainActivity extends Activity {
             pointerList.clear();
         }
 
-        Log.i("TouchForce", "Event ID " + event.getAction());
+        //Log.i("TouchForce", "Event ID " + event.getAction());
 
         return true;
     }
